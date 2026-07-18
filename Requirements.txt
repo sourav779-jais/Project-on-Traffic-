@@ -1,5 +1,5 @@
 streamlit
-plotly
+plotly.express
 streamli_option_menu
 pandas
 numpy
