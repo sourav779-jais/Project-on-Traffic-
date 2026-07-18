@@ -1,9 +1,0 @@
-streamlit
-plotly.express
-streamli_option_menu
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-scikit-learn
